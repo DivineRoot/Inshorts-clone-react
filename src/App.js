@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import NavInshorts from './components/NavInshorts';
 import NewsContent from './components/NewsContent/NewsContent';
-import apikey from "./config";
+import apikey from "./data/config";
 import Footer from "./components/Footer/Footer";
 
 function App() {

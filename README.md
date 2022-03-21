@@ -37,7 +37,7 @@ Here is a working live demo : https://piyush-eon.github.io/react-news-app-inshor
 ### Run it Locally
 
 1. Get the API from ```newsAPI.org``` https://newsapi.org/
-2. Create a config.js file in the root dirctory with the following
+2. Create a config.js file in the ```src/data``` dirctory with the following
 ```
 const apikey = '<KEY>';
 export default apikey;
