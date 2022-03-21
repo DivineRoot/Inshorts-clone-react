@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DivineRoot/Inshorts-clone-react/static/css/main.3f54665d.css",
+    "main.js": "/DivineRoot/Inshorts-clone-react/static/js/main.11d53fb8.js",
+    "index.html": "/DivineRoot/Inshorts-clone-react/index.html",
+    "main.3f54665d.css.map": "/DivineRoot/Inshorts-clone-react/static/css/main.3f54665d.css.map",
+    "main.11d53fb8.js.map": "/DivineRoot/Inshorts-clone-react/static/js/main.11d53fb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f54665d.css",
+    "static/js/main.11d53fb8.js"
+  ]
+}
