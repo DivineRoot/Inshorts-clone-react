@@ -18,7 +18,7 @@ News api doesn't allow you to fetch the api from a deployed site. You can fork t
 
 ## Demo
 Make sure you're using Firefox or running it locally
-Here is a working live demo : https://piyush-eon.github.io/react-news-app-inshorts-clone/
+Here is a working live demo : 
 
 ### Landing Page
 
